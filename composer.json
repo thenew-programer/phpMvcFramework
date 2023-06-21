@@ -1,0 +1,21 @@
+{
+    "name": "jos/mvc_framework",
+    "description": "mvc framework",
+    "autoload": {
+        "psr-4": {
+            "Jos\\MvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Youssef Bouryal",
+            "email": "youssefbouryal02@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"app\\": "./"
+		}
+	},
+    "require": {}
+}
